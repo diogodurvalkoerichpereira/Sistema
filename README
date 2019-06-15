@@ -1,0 +1,31 @@
+Sistema construido com C#, Asp.Net, BoothStrap, HTML e CSS com IDE Visual Studio, ultilizando as Bibliotecas de Class Entity Framework.
+
+O banco de dados em SQL editado com o Entity.Framework e Habilitando o Migration para manipução do banco de dados.
+
+O sistema ja resgitra as informações, deve ser ajustado o DataPicker para registrar os horario atravez do calendario pois ja esta ativo 
+mas não esta acontecendo de forma automatica, o calendario ja esta ativo em JavaScript. O segundo ajuste e finalizar a validação de 
+duplicidade. 
+
+Foram Feitos em duas madrugadas. A parte de do banco de dados que eram 4 tabelas mais por alguns erros foi reduzida para 3 e e trabalhado
+com o migration para atualizar o banco.
+
+O sistema ja resgitra as informações dos usuarios, das salas, e agendamentos todas com vinculos e em listagem, tanto para usuarios, tanto
+para agendamentos, e salas.
+
+Sobre o tempo para conclusão sera mensuro de 2 a 6 horas para teminar, se o usuario prefirir usalo nesta atualização podera somente duplicar o 
+campo data junto com a Div que contem o data picher e ja consegue ultilizar de forma manual, sem o recurço de acesso automatico.
+
+
+Iniciar a Intalação
+
+1. Para ligar é necessario intalar o banco de dados SQL.
+2. Devera nomear com o mesmo nome do projeto o banco de dados "SistemaA"
+3. Configurar o endereço no web.config que aponta para o seu servidor.
+4. Senha de acesso para ultilizar o usuario pode ultilizar qualquer uma para se registrar
+o sistema não foi ativado a segurança com o super usuario, para não perder algum tempo com a rodagem do projeto.
+
+Realizando esses procedimentos apontados o sistema funcionara tranquilamente.
+
+OBS: Para uma melhor ultilização e necessario ajustar o Datapicker e tambem finalizar a validação para dar segurança aos registros.
+
+Em breve esta finalizado.
