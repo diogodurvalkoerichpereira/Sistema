@@ -2,12 +2,6 @@ O Sistema construido com C#, Asp.Net, BoothStrap, HTML e CSS com IDE Visual Stud
 
 O banco de dados em SQL com o Entity.Framework e Habilitando o Migration para manipução do banco de dados.
 
-O sistema ja resgitra as informações.
-mas não esta acontecendo de forma automatica, o calendario ja esta ativo em JavaScript. O segundo ajuste e finalizar a validação de 
-duplicidade. 
-
-Foram Feitos em duas madrugadas. A parte de do banco de dados que eram 4 tabelas mais por alguns erros foi reduzida para 3 e trabalhado
-com o migration para atualizar o banco.
 
 O sistema ja resgitra as informações dos usuarios, das salas, e agendamentos todas com vinculos e em listagem, tanto para usuarios, tanto
 para agendamentos, e salas.
