@@ -2,7 +2,7 @@ O Sistema construido com C#, Asp.Net, BoothStrap, HTML e CSS com IDE Visual Stud
 
 O banco de dados em SQL com o Entity.Framework e Habilitando o Migration para manipução do banco de dados.
 
-O sistema ja resgitra as informações, deve ser ajustado o DataPicker para registrar os horario atravez do calendario pois ja esta ativo 
+O sistema ja resgitra as informações.
 mas não esta acontecendo de forma automatica, o calendario ja esta ativo em JavaScript. O segundo ajuste e finalizar a validação de 
 duplicidade. 
 
@@ -11,9 +11,6 @@ com o migration para atualizar o banco.
 
 O sistema ja resgitra as informações dos usuarios, das salas, e agendamentos todas com vinculos e em listagem, tanto para usuarios, tanto
 para agendamentos, e salas.
-
-Sobre o tempo para conclusão mensuro de 2 a 6 horas para teminar, se o usuario prefirir usalo nesta atualização podera somente duplicar o 
-campo data junto com a Div que contem o Datapicker e ja consegue ultilizar de forma manual, sem o recurço de acesso automatico.
 
 
 Iniciar a Intalação
