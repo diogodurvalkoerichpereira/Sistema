@@ -17,7 +17,7 @@ Iniciar a Intalação
 4. Após realizar esses 3 processos é só iniciar que o arquivo Global foi configurado para gerar automaticamente as planilhas
 em seu banco de dados, mas novamente não esqueça de nomear com o mesmo nome para ser gerado.
 5. Senha de acesso para ultilizar o usuario pode ultilizar qualquer uma para se registrar
-o sistema não foi ativado a segurança com o super usuario, para não perder algum tempo com a rodagem do projeto.
+o sistema não foi ativado a segurança com o super usuario.
 
 Realizando esses procedimentos apontados o sistema funcionara tranquilamente.
 
