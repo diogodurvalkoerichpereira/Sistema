@@ -11,7 +11,7 @@ para agendamentos, e salas.
 
 Iniciar a Intalação
 
-1. Para ligar é necessario intalar o banco de dados SQL.
+1. Para ligar é necessario instalar o banco de dados SQL.
 2. Devera nomear com o mesmo nome do projeto o banco de dados "SistemaA" ou com outronome de sua prefencia mas devera nomear as referencias.
 3. Configurar o endereço no web.config que aponta para o seu servidor.
 4. Após realizar esses 3 processos é só iniciar que o arquivo Global foi configurado para gerar automaticamente as planilhas
