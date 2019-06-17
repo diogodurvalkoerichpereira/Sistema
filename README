@@ -9,7 +9,7 @@ O sistema resgitra as informações dos usuarios, das salas, e agendamentos toda
 para agendamentos, e salas.
 
 
-Iniciar a Intalação
+Iniciar a Instalação
 
 1. Para ligar é necessario instalar o banco de dados SQL.
 2. Devera nomear com o mesmo nome do projeto o banco de dados "SistemaA" ou com outronome de sua prefencia mas devera nomear as referencias.
