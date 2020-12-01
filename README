@@ -1,8 +1,8 @@
 Sistema de agendamentos.
 
-O Sistema construido com C#, Asp.Net, BoothStrap, HTML e CSS com IDE Visual Studio, ultilizando as Bibliotecas de Class Entity Framework.
+O Sistema construido com C#, Asp.Net, BoothStrap, HTML e CSS com IDE Visual Studio.
 
-O banco de dados em SQL com o Entity.Framework e Habilitando o Migration para manipulação do banco de dados.
+O banco de dados em SQL com o Entity.Framework 
 
 
 O sistema resgitra as informações dos usuarios, das salas, e agendamentos todas com vinculos e listagem, tanto para usuarios, tanto
